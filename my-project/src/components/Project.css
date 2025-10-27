@@ -1,0 +1,22 @@
+/* .portfolio {
+  position: relative;
+   min-height: 200vh;
+} */
+
+/* .portfolio .progress {
+  position: sticky;
+  top: 0;
+  left: 0;
+  padding-top: 50px;
+  text-align: center;
+  color: white;
+  font-size: 36px;
+  background-color: rgba(0,0,0,0.8); 
+  z-index: 50;
+}
+
+.portfolio .progress .progressBar {
+  height: 10px;
+  background-color: purple;
+   transform-origin: left;
+} */
